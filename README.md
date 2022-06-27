@@ -1,4 +1,4 @@
-<!-- [![Header](https://github.com/ItsZeroFour/ItsZeroFour/blob/main/assets/background.gif)](https://vk.com/nullbebra) -->
+[![Header](https://raw.githubusercontent.com/ItsZeroFour/ItsZeroFour/ca9baf62d88ada34a216cc41528960e2109c6b3b/assets/background.gif)](https://vk.com/nullbebra)
 
 ## Hello, I'm a Junior Front-end Developer
 
