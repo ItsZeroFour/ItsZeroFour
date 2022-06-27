@@ -20,4 +20,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ItsZeroFour)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/itszero.four/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsZeroFour&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsZeroFour&show_icons=true&theme=radical)](https://github.com/ItsZeroFour)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsZeroFour&layout=compact)](https://github.com/ItsZeroFour)
