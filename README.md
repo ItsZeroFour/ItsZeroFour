@@ -11,8 +11,8 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61ddfd)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge)
-![PremierPro](https://img.shields.io/badge/-PremierPro-9999FF?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge)
+![PremierPro](https://img.shields.io/badge/-PremierPro-090909?style=for-the-badge)
 
 ### Follow me
 
