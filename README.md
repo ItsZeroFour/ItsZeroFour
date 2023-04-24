@@ -25,4 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=ItsZeroFour&icon=1&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee]2200 0202 3620 9823]
+  2200 0202 3620 9823
