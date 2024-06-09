@@ -29,4 +29,4 @@ Hello👋! I'm FullStack Developer! My name is Daniil.<br>I love coffee☕️, a
 [![](https://visitcount.itsvg.in/api?id=ItsZeroFour&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  2200 0202 3620 9823
+  2200 7010 3800 5481
