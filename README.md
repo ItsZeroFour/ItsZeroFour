@@ -56,7 +56,7 @@
 <p align="center"
 <a href="mailto:itsZeroFour@gmail.com"><img src="https://img.shields.io/badge/-itsZeroFour@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://nl.pinterest.com/itszerofour1673/"><img src="https://img.shields.io/badge/-@itszerofour-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://t.me/ItsZeroFour"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/ItsZeroFour"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
 </p>
 
 <img src="https://imgur.com/rilHVxA.png"/> 
