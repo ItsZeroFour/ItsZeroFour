@@ -1,35 +1,41 @@
-<h1 align="center">Hi 👋, I'm Apotemnophillia</h1>
-<h3 align="center">I'm a Fullstack Developer specializing in React and Node.js. Currently focused on enhancing my skills and knowledge in web development, I bring a positive and cheerful approach to solving technical challenges. Also, I'm learning Spanish 🇪🇸 to expand my language skills!</h3>
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itszerofour&label=Profile%20views&color=0e75b6&style=flat" alt="itszerofour" /> </p>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Apotemnophillia</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itszerofour" alt="itszerofour" /></a> </p>
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-- 🔭 I’m currently working on Freelance [FonbetApp](https://github.com/ItsZeroFour/fonbet_app)
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently learning **Spanish Language😁**
+💡 &nbsp;I Like coffee.\
+🎓 &nbsp;I study at the Crimean Federal University.\
+🌱 &nbsp;I want to cooperate with Google.\
+✍️ &nbsp;In my free time I study Spanish.\
 
-- 👯 I’m looking to collaborate on Google [Binomo with AI 1](https://github.com/ItsZeroFour/binomo_neyro)
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🤝 I’m looking for help with Frontend and Backend [Binomo with AI 2](https://github.com/ItsZeroFour/Web-app)
+### 🛠 &nbsp;Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/ItsZeroFour](https://github.com/ItsZeroFour)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-- 📝 I regularly write articles on [uwustudio.ru](uwustudio.ru)
+### ⚙️ &nbsp;GitHub Analytics
 
-- 💬 Ask me about **what is the best coffee (Latte)🍵**
-
-- 📫 How to reach me **Telegram: @ItsZeroFour, WebSite: uwustudio.ru**
-
-- ⚡ Fun fact **I like coffee**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsZeroFour&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsZeroFour&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### 🤝🏻 &nbsp;Connect with Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itszerofour&show_icons=true&locale=en&layout=compact" alt="itszerofour" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itszerofour&show_icons=true&locale=en" alt="itszerofour" /></p>
+<p align="center">
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:itsZeroFour@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://nl.pinterest.com/itszerofour1673/"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+  <a href="https://t.me/ItsZeroFour"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
