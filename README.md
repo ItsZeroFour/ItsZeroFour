@@ -26,12 +26,10 @@
 
 ---
 
-<img align="right" alt="GIF" height="270px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/3mzd5DSPaPHyK4hqUYIW4o)
-
+<p>[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/3mzd5DSPaPHyK4hqUYIW4o)
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></p>
 ---
 
 <!--START_SECTION:waka-->
