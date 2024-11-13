@@ -54,7 +54,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center"
-<a href="mailto:itsZeroFour@gmail.com"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000"/></a>
+<a href="mailto:itsZeroFour@gmail.com"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" width="32px" height="32px"/></a>
 <a href="https://nl.pinterest.com/itszerofour1673/"><img src="https://img.icons8.com/?size=100&id=XErM9A1xNUK5&format=png&color=000000"/></a>
 <a href="https://t.me/ItsZeroFour"><img src="https://img.icons8.com/?size=100&id=103814&format=png&color=000000"/></a>
 <a href="https://vk.com/nullbebra"><img src="https://img.icons8.com/?size=100&id=ggovGWI16G39&format=png&color=000000"/></a>
