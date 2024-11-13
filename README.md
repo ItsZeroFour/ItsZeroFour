@@ -1,5 +1,3 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Apotemnophillia</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
@@ -11,7 +9,7 @@
 🌱 &nbsp;I want to cooperate with Google.\
 ✍️ &nbsp;In my free time I study Spanish.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://tenor.googleapis.com/v2/media?id=11797426902906174143&format=optimizedgif&client_key=tenor_web&appversion=browser-r20241030-1&access_token=ya29.a0AeDClZDuQibUnSYdO4Gc8oZSkWaYNsDMRFUk1GNiKfEp9-ZSJR2_bAWTqZVCmvhhfTZWk_RuhiU12YwzFzBvn2PkqVn-PbINsIvmSkZFoHzbHRgK6BgYdkc5KXXyuzMkGQYc9oBhrWQpk0jB9fy0cJTAVLZxqpFvMQaCgYKAUoSARISFQHGX2MiM3XiW5kHPmRMhcUSaZFljQ0169&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,9 +31,8 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:itsZeroFour@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://nl.pinterest.com/itszerofour1673/"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-  <a href="https://t.me/ItsZeroFour"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<p align="center"
+<a href="mailto:itsZeroFour@gmail.com"><img src="https://img.shields.io/badge/-itsZeroFour@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://nl.pinterest.com/itszerofour1673/"><img src="https://img.shields.io/badge/-@itszerofour-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://t.me/ItsZeroFour"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
