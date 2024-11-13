@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Apotemnophillia</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Apotemnophillia</h2> <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -30,6 +30,18 @@
 
 ---
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+🌆 Daytime                117 commits         ███████████░░░░░░░░░░░░░░   44.83 % 
+🌃 Evening                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+```
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -46,3 +58,5 @@
 <a href="https://nl.pinterest.com/itszerofour1673/"><img src="https://img.shields.io/badge/-@itszerofour-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://t.me/ItsZeroFour"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
+
+<img src="https://imgur.com/rilHVxA.png"/> 
