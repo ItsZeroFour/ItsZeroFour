@@ -10,6 +10,7 @@
 🎓 &nbsp;I study at the Crimean Federal University\
 🌱 &nbsp;I want to cooperate with Google\
 ✍️ &nbsp;In my free time I study Spanish and play Video Games
+✈️ &nbsp; I like travel
 
 ### 🛠 &nbsp;Tech Stack
 
