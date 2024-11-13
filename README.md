@@ -10,8 +10,6 @@
 🌱 &nbsp;I want to cooperate with Google\
 ✍️ &nbsp;In my free time I study Spanish and play Video Games
 
-<img alt="Night Coding" src="https://tenor.googleapis.com/v2/media?id=11797426902906174143&format=optimizedgif&client_key=tenor_web&appversion=browser-r20241030-1&access_token=ya29.a0AeDClZDuQibUnSYdO4Gc8oZSkWaYNsDMRFUk1GNiKfEp9-ZSJR2_bAWTqZVCmvhhfTZWk_RuhiU12YwzFzBvn2PkqVn-PbINsIvmSkZFoHzbHRgK6BgYdkc5KXXyuzMkGQYc9oBhrWQpk0jB9fy0cJTAVLZxqpFvMQaCgYKAUoSARISFQHGX2MiM3XiW5kHPmRMhcUSaZFljQ0169&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 <p  align="left">
@@ -26,15 +24,11 @@
 
 ---
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ### Spotify Playing 🎧
 
-  <a href="https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu">
-    <img src="https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify" alt="Spotify" />
-  </a>
-
-<div align="right">
-  <img alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-</div>
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 
 ---
 
