@@ -1,7 +1,7 @@
 <h2>Hey there! I'm Apotemnophillia</h2> <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-<img alt="Night Coding" src="https://tenor.googleapis.com/v2/media?id=11797426902906174143&format=optimizedgif&client_key=tenor_web&appversion=browser-r20241030-1&access_token=ya29.a0AeDClZDuQibUnSYdO4Gc8oZSkWaYNsDMRFUk1GNiKfEp9-ZSJR2_bAWTqZVCmvhhfTZWk_RuhiU12YwzFzBvn2PkqVn-PbINsIvmSkZFoHzbHRgK6BgYdkc5KXXyuzMkGQYc9oBhrWQpk0jB9fy0cJTAVLZxqpFvMQaCgYKAUoSARISFQHGX2MiM3XiW5kHPmRMhcUSaZFljQ0169&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8" align="right"/>
+<img alt="Night Coding" src="https://media.tenor.com/o7jhQ0Nb-r8AAAAM/girl.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
