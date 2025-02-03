@@ -1,7 +1,7 @@
 <h2>Hey there! I'm Apotemnophillia</h2> <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-<img alt="Night Coding" src="https://tenor.com/bpNxw.gif" align="right"/>
+<img alt="Night Coding" src="https://media.tenor.com/4sCqzmiUtuEAAAAi/mikan-kinnie.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
