@@ -6,10 +6,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🥈 &nbsp;Placed 2nd in **Crimea Web 2023**\
-💡 &nbsp;I Like coffee\
+💡 &nbsp;Ammm...\
 🎓 &nbsp;I study at the Crimean Federal University\
 🌱 &nbsp;I want to cooperate with Google\
-✍️ &nbsp;In my free time I study Spanish and play Video Games\
+✍️ &nbsp;Ahhhh.....
 ✈️ &nbsp; I like travel
 
 ### 🛠 &nbsp;Tech Stack
