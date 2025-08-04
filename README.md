@@ -9,7 +9,7 @@
 💡 &nbsp;Ammm...\
 🎓 &nbsp;I study at the Crimean Federal University\
 🌱 &nbsp;I want to cooperate with Google\
-✍️ &nbsp;Ahhhh.....
+✍️ &nbsp;Ahhhh.....\
 ✈️ &nbsp; I like travel
 
 ### 🛠 &nbsp;Tech Stack
