@@ -41,6 +41,8 @@
 
 **I'm an Early 🐤** 
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsZeroFour&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ```text
 🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.97 % 
 🌆 Daytime                117 commits         ███████████░░░░░░░░░░░░░░   44.83 % 
