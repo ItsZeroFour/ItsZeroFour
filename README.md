@@ -37,7 +37,7 @@
 ---
 
 <!--START_SECTION:waka-->
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34014%26minutes%3D14400)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat-square&color=e1adff&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34014)](https://codetime.dev)
 
 **I'm an Early 🐤** 
 
