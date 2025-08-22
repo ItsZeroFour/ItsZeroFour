@@ -43,15 +43,6 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsZeroFour&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsZeroFour&show_icons=true&theme=radical&hide_title=true&hide=prs,issues,contribs)
-
-```text
-🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-🌆 Daytime                117 commits         ███████████░░░░░░░░░░░░░░   44.83 % 
-🌃 Evening                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-```
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
