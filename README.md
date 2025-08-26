@@ -14,6 +14,8 @@
 ✍️ &nbsp;Ahhhh.....\
 ✈️ &nbsp; I like travel
 
+### Clients I have worked with: Binomo, Fonbet, Stockity, Maxi, Russian Movies(websites)
+
 ### 🛠 &nbsp;Tech Stack
 
 <p  align="left">
