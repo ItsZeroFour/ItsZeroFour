@@ -1,10 +1,9 @@
 <img src="https://i.pinimg.com/1200x/95/ae/a9/95aea9d6e144313989e5bd897c2e7cff.jpg" width="100%" height="auto"/>
 
+<img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 <h2>Hey there! I'm Apotemnophillia</h2>
 
 <span style="color:yellow">💻 React + Node.js Developer since 2020</span>
-
-<img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img alt="Night Coding" src="https://c.tenor.com/blBxKE_C9tYAAAAC/tenor.gif" align="right"/>
 
