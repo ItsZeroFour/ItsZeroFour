@@ -59,11 +59,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center"
-<a href="mailto:itsZeroFour@gmail.com"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" width="32px" height="32px"/></a>
+<a href="mailto:itsZeroFourX@gmail.com"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" width="32px" height="32px"/></a>
 <a href="https://nl.pinterest.com/apotemnophillia/"><img src="https://img.icons8.com/?size=100&id=XErM9A1xNUK5&format=png&color=000000" width="32px" height="32px"/></a>
 <a href="https://t.me/ItsZeroFour"><img src="https://img.icons8.com/?size=100&id=103814&format=png&color=000000" width="32px" height="32px"/></a>
 <a href="https://vk.com/nullbebra"><img src="https://img.icons8.com/?size=100&id=ggovGWI16G39&format=png&color=000000" width="32px" height="32px"/></a>
-<a href="https://uwustudio.ru/"><img src="https://img.icons8.com/?size=100&id=ipBLdOAQ6sRn&format=png&color=000000" width="32px" height="32px"/></a>
 </p>
 
 <img src="https://imgur.com/rilHVxA.png"/> 
