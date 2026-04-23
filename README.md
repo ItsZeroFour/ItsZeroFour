@@ -16,7 +16,7 @@
 ✍️ &nbsp;Ahhhh.....\
 ✈️ &nbsp; I like travel
 
-### Clients I have worked with: Binomo, Fonbet, Stockity, Maxi, Russian Movies(websites)
+### I've had the pleasure of working with notable clients across finance, betting, and entertainment - including Binomo, Fonbet, Stockity, Maxi, Kinopoik and Фонд Кино.
 
 ### 🛠 &nbsp;Tech Stack
 
